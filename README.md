@@ -1,6 +1,6 @@
 # MySQL-Workbench-Queries--Core----world
 
-Objective of the showcase - Successfully load the dataset in MySQL and run the queries to explore the data while taking note of the ERD below:
+Objective: Successfully load the world dataset in MySQL and run the queries to explore the data engineered as per ERD below:
  
 ![1660762828__img_01 (3)](https://github.com/eccecarreon/MySQL-Workbench-Queries-Core---world/assets/153371886/9ba02b63-218c-4110-acd1-0e9232515824)
 
